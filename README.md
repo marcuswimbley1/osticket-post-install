@@ -59,6 +59,8 @@ Admin Panel → Agents → Roles
  - Click Add New Role
  - Name it Supreme Admin
 
+<img width="562" height="132" alt="image" src= https://imgur.com/a/YKBZ8nU](https://i.imgur.com/99kjjaR.png)
+
 <img width="562" height="132" alt="image" src="https://github.com/user-attachments/assets/b7ecc17d-7115-4934-b68c-acd47d9a90ee" /><
 
 <img width="460" height="109" alt="image" src="https://github.com/user-attachments/assets/22319dd4-8f79-4f2f-bd35-225a20b3e310" /><
