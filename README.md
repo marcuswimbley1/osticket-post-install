@@ -119,8 +119,6 @@ STEP 5: Create Teams
 - Admin Panel → Settings → User Settings
 - UNcheck: “Require registration and login to create tickets”
   
-<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
-
 <img width="430" height="366" alt="image" src="https://github.com/user-attachments/assets/1518d90c-955d-44b8-9c96-bc8a5b6aff07" />
 
 
@@ -132,8 +130,6 @@ Admin Panel → Agents → Add New
 - Jane (Dept: SysAdmins)
 - John (Dept: Support)
 Assign them roles like Supreme Admin
-
-<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
 <img width="460" height="124" alt="image" src="https://github.com/user-attachments/assets/31414990-fce3-4835-9daa-1ede20a38d71" /><
 
@@ -173,8 +169,6 @@ Agent Panel → Users → Add New
 - Karen
 - Ken
 
-<img width="313" height="78" alt="image" src="https://github.com/user-attachments/assets/064187b6-4f0f-4830-a883-55db6bb317dc" /><
-
 <img width="460" height="147" alt="image" src="https://github.com/user-attachments/assets/f8543938-42ba-46fd-8b77-2e72faf5a3f6" /><
 
 <img width="430" height="251" alt="image" src="https://github.com/user-attachments/assets/0044b1b7-8aa5-4e4e-a0fc-b984586331b1" /><
@@ -186,8 +180,6 @@ Admin Panel → Manage → SLA
 - Sev-A (1 hr, 24/7)
 - Sev-B (4 hrs, 24/7)
 - Sev-C (8 hrs, Business Hours)
-  
-<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
 <img width="460" height="67" alt="image" src="https://github.com/user-attachments/assets/07f90729-9c0a-4974-81f5-f703b67f4f45" /><
 
