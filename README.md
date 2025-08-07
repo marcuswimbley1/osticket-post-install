@@ -35,9 +35,6 @@ http://localhost/osTicket/scp/login.php
 - User Ticket Portal URL:
 http://localhost/osTicket  
 
-<img width="400" height="339" alt="59" src="https://github.com/user-attachments/assets/211646c8-7011-4074-b174-6c71910bb8ee" />
-
-
 <img width="400" height="231" alt="60" src="https://github.com/user-attachments/assets/92a8d655-aef4-4389-b3e7-2504685fe004" /><
 
 
