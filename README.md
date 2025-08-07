@@ -83,7 +83,6 @@ Add:
 - SysAdmins
 - Support
 
-  <img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/07a3d1c3-956f-46bd-a34a-038811944c71" /><
 
 <img width="450" height="123" alt="image" src="https://github.com/user-attachments/assets/6dfe9971-c096-44c6-b8b2-d0180f6da19c" /><
 
