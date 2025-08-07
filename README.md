@@ -48,7 +48,6 @@ http://localhost/osTicket
 
  <img width="400" height="482" alt="61" src="https://github.com/user-attachments/assets/5d54ced1-61fe-4bab-878d-300b5d270a32" /><
 
- <img width="400" height="168" alt="62" src="https://github.com/user-attachments/assets/5160fa5f-10c2-4103-97f2-4472d3fa53f5" /><
 
 
 </p>
@@ -97,8 +96,6 @@ STEP 5: Create Teams
 - Admin Panel → Agents → Teams
  Add:
 - Online Banking (pull agents from different departments)
-
-<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
 <img width="460" height="379" alt="image" src="https://github.com/user-attachments/assets/c440471d-086d-4c44-8317-244fb1688066" /><
 
