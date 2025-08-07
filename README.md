@@ -44,11 +44,6 @@ http://localhost/osTicket
   
   - Admin Panel = Full control of osTicket
   - Agent Panel = Used by support agents to manage tickets
-  
-
- <img width="400" height="482" alt="61" src="https://github.com/user-attachments/assets/5d54ced1-61fe-4bab-878d-300b5d270a32" /><
-
-
 
 </p>
 <p>
