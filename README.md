@@ -120,8 +120,6 @@ Admin Panel → Agents → Add New
 - John (Dept: Support)
 Assign them roles like Supreme Admin
 
-<img width="460" height="124" alt="image" src="https://github.com/user-attachments/assets/31414990-fce3-4835-9daa-1ede20a38d71" /><
-
 <img width="460" height="231" alt="image" src="https://github.com/user-attachments/assets/5f5abacb-cd7c-4002-89c3-dddfa6ef3c0a" /><
 
 <img width="462" height="285" alt="image" src="https://github.com/user-attachments/assets/cdf3fd36-c737-448b-bdf4-83389170e032" /><
@@ -188,8 +186,6 @@ Admin Panel → Manage → Help Topics
 - Password Reset
 - Other
   
- <img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
-
 <img width="460" height="65" alt="image" src="https://github.com/user-attachments/assets/6ed10d62-4d2f-4634-b382-055c9d51b19e" /><
 
 <img width="430" height="327" alt="image" src="https://github.com/user-attachments/assets/23b8942d-d9b8-4c60-8095-e11e8eb0763d" /><
